@@ -1,0 +1,36 @@
+html{
+    background-color: #336b87;
+}
+body{
+    width: 95%;
+    margin: auto;
+}
+.redessociales{
+    
+   text-align: right;
+  display: inline-table;
+  margin-top: 17%;
+}
+
+
+   
+    
+}
+
+.contenedor{
+    
+}
+
+
+/*--------------RESPONSIVO------------*/
+
+@media(max-width:900px){
+    .redessociales{
+      width: 100%;
+      text-align: center;
+      margin-top: auto;
+    }
+    html{
+        background-color: black;
+    }
+}

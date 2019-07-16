@@ -1,0 +1,18 @@
+body{
+    
+}
+
+.opacidad{
+    background-color:rgba(80,104,43,0.4);
+    color: white;
+    padding-top: 20px;
+}
+
+.slogan{
+    text-align: right;
+    color: wheat;
+}
+
+.usuario{
+    background-color: #def2f8;
+}
